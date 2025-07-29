@@ -84,21 +84,4 @@ Key Insights from this dashboard
  • Using Date, year, month slicers we can slice and dice the data in this report
  • Red background color in Variance, variance% - action items that might need attention
 
- <img width="1312" height="726" alt="image" src="https://github.com/user-attachments/assets/9ea10f8b-5df6-4e1f-ac89-4444857fcba2" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img width="1312" height="726" alt="image" src="https://github.com/user-attachments/assets/58fe616b-1150-4ecd-af4b-944bf58862b8" />
